@@ -1,0 +1,2 @@
+# CryptoAPI
+Crypto Automated API
